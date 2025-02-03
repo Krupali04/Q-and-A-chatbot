@@ -19,6 +19,6 @@ A user-friendly web interface built with Streamlit.
 - Streamlit: For creating the web app interface.
 
 #### Working of Project on Streamlit --
-<img src="https://github.com/Krupali04/New-York-Airbnb-Data-Analysis/blob/main/NY-Airbnb.webp" alt="Chatbot" width="600" height="300">
+<img src="https://github.com/Krupali04/Q-and-A-chatbot/blob/main/Chatbot.png" alt="Chatbot" width="600" height="300">
 
   
