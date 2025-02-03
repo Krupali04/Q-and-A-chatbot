@@ -19,6 +19,20 @@ A user-friendly web interface built with Streamlit.
 - Streamlit: For creating the web app interface.
 
 #### Working of Project on Streamlit --
-<img src="https://github.com/Krupali04/Q-and-A-chatbot/blob/main/Chatbot.png" alt="Chatbot" width="600" height="300">
+<img src="https://github.com/Krupali04/Q-and-A-chatbot/blob/main/Chatbot.png" alt="Chatbot" width="1000" height="600">
+
+## How to run ?
+
+First, clone this repository to your local machine:
+git clone https://github.com/yourusername/chatbot-project.git
+
+Install the necessary libraries and dependencies via pip:
+pip install -r requirements.txt
+
+Set up OpenAI API Key:
+OPENAI_API_KEY=your_api_key_here
+
+Start the Streamlit app:
+streamlit run app.py
 
   
