@@ -18,7 +18,7 @@ A user-friendly web interface built with Streamlit.
 - Hugging Face: For NLP models and resources.
 - Streamlit: For creating the web app interface.
 
-#### Working of Project on Streamlit --
+## Working of Project on Streamlit --
 <img src="https://github.com/Krupali04/Q-and-A-chatbot/blob/main/Chatbot.png" alt="Chatbot" width="1000" height="600">
 
 ## How to run ?
